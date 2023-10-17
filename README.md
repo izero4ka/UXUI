@@ -3,7 +3,8 @@
 
 Login_page
 https://www.figma.com/file/OY53oQyW5xTfcXpyfOa2ud/IETM_PROTOTYPE?type=design&node-id=5-268&mode=design&t=RqmHjcHRwUWhCFfH-0
-![image](https://github.com/izero4ka/UXUI/assets/81251379/100fa8b3-f45b-4c47-84f8-4b32d8cb4268)
+![image](https://github.com/izero4ka/UXUI/assets/81251379/cf08898e-fe0a-452b-9555-7ab7fc797724)
+
 
 Main_page
 https://www.figma.com/file/OY53oQyW5xTfcXpyfOa2ud/IETM_PROTOTYPE?type=design&node-id=0-1&mode=design

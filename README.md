@@ -1,5 +1,6 @@
 # Этот репозиторий создан для разработки интерфейсов и прототипирования с помощью Figma
 Прототип(Lo-Fi) системы ietm для компании Аскон
 
-![image](https://github.com/izero4ka/UXUI/assets/81251379/5c37bb13-696e-4861-9b7e-d7657578c9ea)
+![image](https://github.com/izero4ka/UXUI/assets/81251379/a0c877d9-bc8f-4b11-a152-9aa0c38c05f0)
+
 
